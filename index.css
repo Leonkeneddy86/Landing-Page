@@ -31,7 +31,10 @@ main{
 }
 
 footer{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: fantasy;
+    background-image:url(images/banner/banner\ footer.png) ;
+    font-family: fantasy;
+    
 }
 
 .icono{
