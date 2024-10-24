@@ -1,18 +1,15 @@
-header{
+body{
     text-align: center;
-    font-family: cursive;
+    background:linear-gradient(blue,violet);
     font-size: x-large;
-    background:linear-gradient(Blue,violet)
+    font-family: cursive
 }
- .cartel{
+.banner{
+    text-align: center;
     width: 700px;
- }
- .box{
-    width: 300px;
-    height: 300px;
-    background-image: url(images/logos/Github.png);
-    background-size: cover;
-    border-radius: 50%;
-    margin: auto;
- }
- 
+    height: 500px;
+}
+.bannerfooter{
+   text-align: center;
+   width: 900px; 
+}
