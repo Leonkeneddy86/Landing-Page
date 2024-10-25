@@ -6,22 +6,31 @@ header{
      
 }
 
-.logo{
+.logoJon{
     float: left;
     width: 100px;
     border-radius: 50%;
 }
 
-.logo2{
+.fotoJon{
     border-radius: 50%;
     float: right;
     width: 100px;
 }
+.fotoFran{
+    border-radius: 100%;
+    float: right;
+    width: 107px;
+}
 
-.banner{
+.bannerJon{
     text-align: center;
-    width: 700px;
-    
+    width: 300px;
+    height: 150px;
+}
+
+.bannerCrudo{
+    width: 300px;
 }
 main{
     text-align: center;
@@ -49,7 +58,7 @@ width: 30px;
     width: 30px;
 }
 
-.logo3{
+.logoFran{
     border-radius: 50%;
     width: 100px;
     float: left
