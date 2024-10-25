@@ -27,7 +27,7 @@ main{
     text-align: center;
     font-size: x-large;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-
+    background:linear-gradient(blue,violet)
 }
 
 footer{
@@ -39,4 +39,18 @@ footer{
 
 .icono{
 width: 30px;
+}
+
+.icono2{
+    width: 30px;
+}
+
+.photo2{
+    width: 30px;
+}
+
+.logo3{
+    border-radius: 50%;
+    width: 100px;
+    float: left
 }
