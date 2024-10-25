@@ -40,3 +40,13 @@ footer{
 .icono{
 width: 30px;
 }
+
+.icono2{
+    width: 30px;
+}
+
+.logo3{
+    border-radius: 50%;
+    width: 100px;
+    float: inline-end;
+}
