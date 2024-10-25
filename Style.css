@@ -6,6 +6,10 @@ header{
      
 }
 
+main{
+    background: linear-gradient(blue,violet)
+}
+
 .logo{
     float: left;
     width: 100px;
