@@ -1,5 +1,4 @@
 # Landing-Page
-holamundo
 ---
  acabo de empezar en el mundo de la programacion como desarrollador. haciendo proyectos bien en solitario, o en equipo. y me gustaria ampliar conocimientos, crear, y conocer mas este mundo, como Back-End y Front-End 
 
